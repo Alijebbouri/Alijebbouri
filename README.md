@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **react, laravel**
 
